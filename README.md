@@ -24,8 +24,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Santhosh73420/Santhosh/tree/master/0069-sqrtx) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Santhosh73420/Santhosh/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Santhosh73420/Santhosh/tree/master/0029-divide-two-integers) |
+## Array
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Santhosh73420/Santhosh/tree/master/2699-count-the-number-of-fair-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Santhosh73420/Santhosh/tree/master/2699-count-the-number-of-fair-pairs) |
+## Sorting
+|  |
+| ------- |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Santhosh73420/Santhosh/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
