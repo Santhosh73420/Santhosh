@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1547-destination-city](https://github.com/Santhosh73420/Santhosh/tree/master/1547-destination-city) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Santhosh73420/Santhosh/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Two Pointers
 |  |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Santhosh73420/Santhosh/tree/master/0279-perfect-squares) |
+## Hash Table
+|  |
+| ------- |
+| [1547-destination-city](https://github.com/Santhosh73420/Santhosh/tree/master/1547-destination-city) |
+## String
+|  |
+| ------- |
+| [1547-destination-city](https://github.com/Santhosh73420/Santhosh/tree/master/1547-destination-city) |
 <!---LeetCode Topics End-->
