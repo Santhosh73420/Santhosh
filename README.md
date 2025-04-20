@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Santhosh73420/Santhosh/tree/master/0242-valid-anagram) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Santhosh73420/Santhosh/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Breadth-First Search
 |  |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Santhosh73420/Santhosh/tree/master/0242-valid-anagram) |
 | [0797-rabbits-in-forest](https://github.com/Santhosh73420/Santhosh/tree/master/0797-rabbits-in-forest) |
 | [1547-destination-city](https://github.com/Santhosh73420/Santhosh/tree/master/1547-destination-city) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Santhosh73420/Santhosh/tree/master/0242-valid-anagram) |
 | [1547-destination-city](https://github.com/Santhosh73420/Santhosh/tree/master/1547-destination-city) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Santhosh73420/Santhosh/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Prefix Sum
